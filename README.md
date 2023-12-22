@@ -3,7 +3,7 @@
 Follow these steps to successfully set up and run the project:
 
 ## Prerequisites
-- XAMPP installed on your system.
+- **XAMPP** installed on your system.
 
 ## Steps
 
@@ -19,7 +19,7 @@ Follow these steps to successfully set up and run the project:
    - Open your web browser and navigate to [http://localhost/phpmyadmin/].
 
 3. **Create Database:**
-   - In phpMyAdmin, create a new database called `system`.
+   - In phpMyAdmin, create a new database called **`system`**.
 
      ```sql
      -- Example SQL query to create a database
@@ -27,7 +27,7 @@ Follow these steps to successfully set up and run the project:
      ```
 
 4. **Run the Project:**
-   - Copy all project files into the `htdocs` directory within your XAMPP installation directory.
+   - Copy all project files into the **`htdocs`** directory within your XAMPP installation directory.
 
      ```bash
      # Example path to the project directory
@@ -38,4 +38,3 @@ Follow these steps to successfully set up and run the project:
 
 5. **Success:**
    - The project is now accessible at [http://localhost/Final_soft].
-
